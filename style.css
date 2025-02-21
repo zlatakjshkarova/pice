@@ -1,0 +1,39 @@
+html,
+body {
+    height: 100%;
+
+}
+
+body {
+
+
+
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    display: flex;
+    max-width: 400px;
+    margin: 45px auto;
+    padding: 20px;
+    background-color: #d4e024;
+
+    flex-direction: column;
+    justify-content: center;
+    align-items: end;
+
+
+}
+
+.inp {}
+
+.inb {
+    display: flex;
+    justify-content: first baseline;
+}
+
+.p {
+    display: flex;
+    justify-content: flex-end;
+}
